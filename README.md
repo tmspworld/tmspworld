@@ -17,4 +17,4 @@ Aside from my technical skills, I enjoy ✍️ writing stories and 🎬 shooting
 
 Let's connect and collaborate! 🤝
 
-https://www.figma.com/@tmspworld
+<a href= "https://www.figma.com/@tmspworld">@tmspworld</a>
