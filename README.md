@@ -1,4 +1,4 @@
-# Hi, I'm Mandeep Singh Pawar! 🐦
+# Hi, I'm Thakur Mandeep Singh Pawar! 🐦
 
 I am a passionate explorer of 🌍 nature, ✨ stars, 🔭 space science, and the mysteries of the universe. I love problem-solving, especially in ⚛️ physics, and enjoy working with a variety of programming languages, including:
 
