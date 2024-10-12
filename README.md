@@ -8,7 +8,7 @@ I am a passionate explorer of 🌍 nature, ✨ stars, 🔭 space science, and th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://drive.google.com/file/d/1FZ92jsc--y_bHiFpWgMND-phrUGvmF5V/view?usp=sharing" width="140" height="140"/>
+  
   
 </p>
 
