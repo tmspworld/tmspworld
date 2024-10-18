@@ -1,17 +1,11 @@
 <link href="https://fonts.cdnfonts.com/css/terminator-real-nfi" rel="stylesheet">
-<style>
-                            @import url('https://fonts.cdnfonts.com/css/terminator-real-nfi');
-  body
-  {
-    font-family: 'Terminator Real NFI', sans-serif;
-    }
-</style>
+
          
 # Hi, I'm Thakur Mandeep Singh Pawar! 🐦
 
-
+<p style="font-family: 'Terminator Real NFI', sans-serif;">
 I am a passionate explorer of 🌍 nature, ✨ stars, 🔭 space science, and the mysteries of the universe. I love problem-solving, especially in ⚛️ physics, and enjoy working with a variety of programming languages, including:
-
+</p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
